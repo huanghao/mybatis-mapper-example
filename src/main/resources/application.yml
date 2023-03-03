@@ -1,8 +1,5 @@
 spring:
   datasource:
-#    url: jdbc:mysql://10.189.224.184:5002/walle_ops?useUnicode=true&characterEncoding=UTF-8&useSSL=false
-#    username: walle_ops
-#    password: walle_ops
     url: jdbc:mysql://localhost/test?useUnicode=true&characterEncoding=UTF-8&useSSL=false
     username: java
     password: javapass
